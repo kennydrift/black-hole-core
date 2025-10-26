@@ -1,2 +1,2 @@
-# black-hole-core
-the black hole core game
+# Black Hole Core
+the game about maintaining a black hole
